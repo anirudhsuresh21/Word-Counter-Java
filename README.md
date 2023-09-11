@@ -1,7 +1,9 @@
 # Word-Counter-Java
 
 This Java program allows users to count words, lines, and characters in the text area. It provides live updates as the file is being typed or edited.
-Features
+
+
+*Features*
 
 
 ->Open text files from computer to count words, lines and letters
